@@ -10,7 +10,7 @@ const CoursHeader = () => {
       <div>
         <h3>React Courses List</h3>
         <p>
-          Cours en favoris : <strong>{undonecours.length}</strong>
+          Les cours que j'aime : <strong>{undonecours.length}</strong>
         </p>
       </div>
       <div>
